@@ -86,7 +86,18 @@
 </g>
  </g>
  <g stroke-width="0.8">
- <path d=" M 12.49341 106.59807 L 85.45523 64.47343  " fill="none"/>
+ <path d=" M 13.10828 106.24309 L 85.45523 64.47343  " fill="none"/>
+ <g transform="matrix(-0.86601,0.49998,-0.49998,-0.86601,13.10829,106.24307)">
+ <g stroke-width="0.64">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -1.55997 2.07996 C -1.42996 1.29997 0.0 0.12999 0.38998 0.0 C 0.0 -0.12999 -1.42996 -1.29997 -1.55997 -2.07996  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+  </g>
  <g transform="matrix(0.86601,-0.49998,0.49998,0.86601,85.45522,64.47345)">
  <g stroke-width="0.64">
  <g stroke-dasharray="none" stroke-dashoffset="0.0">
@@ -108,7 +119,18 @@
  </g>
  </g>
  <g stroke-width="0.8">
- <path d=" M 98.5635 42.47914 L 98.5635 -41.76913  " fill="none"/>
+ <path d=" M 98.5635 41.76913 L 98.5635 -41.76913  " fill="none"/>
+ <g transform="matrix(0.0,1.0,-1.0,0.0,98.5635,41.76913)">
+ <g stroke-width="0.64">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -1.55997 2.07996 C -1.42996 1.29997 0.0 0.12999 0.38998 0.0 C 0.0 -0.12999 -1.42996 -1.29997 -1.55997 -2.07996  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+  </g>
  <g transform="matrix(0.0,-1.0,1.0,0.0,98.5635,-41.76913)">
  <g stroke-width="0.64">
  <g stroke-dasharray="none" stroke-dashoffset="0.0">
@@ -130,7 +152,18 @@
  </g>
  </g>
  <g stroke-width="0.8">
- <path d=" M 86.0701 -64.11845 L 13.10828 -106.24309  " fill="none"/>
+ <path d=" M 85.45523 -64.47343 L 13.10828 -106.24309  " fill="none"/>
+ <g transform="matrix(0.86601,0.49998,-0.49998,0.86601,85.45522,-64.47345)">
+ <g stroke-width="0.64">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -1.55997 2.07996 C -1.42996 1.29997 0.0 0.12999 0.38998 0.0 C 0.0 -0.12999 -1.42996 -1.29997 -1.55997 -2.07996  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+  </g>
  <g transform="matrix(-0.86601,-0.49998,0.49998,-0.86601,13.10829,-106.24307)">
  <g stroke-width="0.64">
  <g stroke-dasharray="none" stroke-dashoffset="0.0">
@@ -152,7 +185,18 @@
  </g>
  </g>
  <g stroke-width="0.8">
- <path d=" M -12.49341 -106.59807 L -85.45523 -64.47343  " fill="none"/>
+ <path d=" M -13.10828 -106.24309 L -85.45523 -64.47343  " fill="none"/>
+ <g transform="matrix(0.86601,-0.49998,0.49998,0.86601,-13.10829,-106.24307)">
+ <g stroke-width="0.64">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -1.55997 2.07996 C -1.42996 1.29997 0.0 0.12999 0.38998 0.0 C 0.0 -0.12999 -1.42996 -1.29997 -1.55997 -2.07996  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+  </g>
  <g transform="matrix(-0.86601,0.49998,-0.49998,-0.86601,-85.45522,-64.47345)">
  <g stroke-width="0.64">
  <g stroke-dasharray="none" stroke-dashoffset="0.0">
@@ -174,7 +218,18 @@
  </g>
  </g>
  <g stroke-width="0.8">
- <path d=" M -98.5635 -42.47914 L -98.5635 41.76913  " fill="none"/>
+ <path d=" M -98.5635 -41.76913 L -98.5635 41.76913  " fill="none"/>
+ <g transform="matrix(0.0,-1.0,1.0,0.0,-98.5635,-41.76913)">
+ <g stroke-width="0.64">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -1.55997 2.07996 C -1.42996 1.29997 0.0 0.12999 0.38998 0.0 C 0.0 -0.12999 -1.42996 -1.29997 -1.55997 -2.07996  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+  </g>
  <g transform="matrix(0.0,1.0,-1.0,0.0,-98.5635,41.76913)">
  <g stroke-width="0.64">
  <g stroke-dasharray="none" stroke-dashoffset="0.0">
@@ -196,7 +251,18 @@
  </g>
  </g>
  <g stroke-width="0.8">
- <path d=" M -86.0701 64.11845 L -13.10828 106.24309  " fill="none"/>
+ <path d=" M -85.45523 64.47343 L -13.10828 106.24309  " fill="none"/>
+ <g transform="matrix(-0.86601,-0.49998,0.49998,-0.86601,-85.45522,64.47345)">
+ <g stroke-width="0.64">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -1.55997 2.07996 C -1.42996 1.29997 0.0 0.12999 0.38998 0.0 C 0.0 -0.12999 -1.42996 -1.29997 -1.55997 -2.07996  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+  </g>
  <g transform="matrix(0.86601,0.49998,-0.49998,0.86601,-13.10829,106.24307)">
  <g stroke-width="0.64">
  <g stroke-dasharray="none" stroke-dashoffset="0.0">
@@ -218,7 +284,18 @@
  </g>
  </g>
  <g stroke-width="0.8">
- <path d=" M 0.0 99.38466 L 0.0 15.13637  " fill="none"/>
+ <path d=" M 0.0 98.67465 L 0.0 15.13637  " fill="none"/>
+ <g transform="matrix(0.0,1.0,-1.0,0.0,0.0,98.67465)">
+ <g stroke-width="0.64">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -1.55997 2.07996 C -1.42996 1.29997 0.0 0.12999 0.38998 0.0 C 0.0 -0.12999 -1.42996 -1.29997 -1.55997 -2.07996  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+  </g>
  <g transform="matrix(0.0,-1.0,1.0,0.0,0.0,15.13637)">
  <g stroke-width="0.64">
  <g stroke-dasharray="none" stroke-dashoffset="0.0">
@@ -230,7 +307,7 @@
  </g>
  </g>
   </g>
- <g transform="translate(-2.93747,67.66522)">
+ <g transform="translate(11.68889,53.03886)">
  <g fill="#000">
  <text style="stroke:none" transform="scale(1,-1) translate(2.93747,0)" text-anchor="middle"  font-size="10"> 
 <g fill="#000">
@@ -240,7 +317,18 @@
  </g>
  </g>
  <g stroke-width="0.8">
- <path d=" M 86.0701 49.69255 L 13.10828 7.56793  " fill="none"/>
+ <path d=" M 85.45523 49.33757 L 13.10828 7.56793  " fill="none"/>
+ <g transform="matrix(0.86601,0.49998,-0.49998,0.86601,85.45522,49.33755)">
+ <g stroke-width="0.64">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -1.55997 2.07996 C -1.42996 1.29997 0.0 0.12999 0.38998 0.0 C 0.0 -0.12999 -1.42996 -1.29997 -1.55997 -2.07996  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+  </g>
  <g transform="matrix(-0.86601,-0.49998,0.49998,-0.86601,13.10829,7.56795)">
  <g stroke-width="0.64">
  <g stroke-dasharray="none" stroke-dashoffset="0.0">
@@ -262,7 +350,18 @@
  </g>
  </g>
  <g stroke-width="0.8">
- <path d=" M 86.0701 -49.69255 L 13.10828 -7.56793  " fill="none"/>
+ <path d=" M 85.45523 -49.33757 L 13.10828 -7.56793  " fill="none"/>
+ <g transform="matrix(0.86601,-0.49998,0.49998,0.86601,85.45522,-49.33755)">
+ <g stroke-width="0.64">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -1.55997 2.07996 C -1.42996 1.29997 0.0 0.12999 0.38998 0.0 C 0.0 -0.12999 -1.42996 -1.29997 -1.55997 -2.07996  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+  </g>
  <g transform="matrix(-0.86601,0.49998,-0.49998,-0.86601,13.10829,-7.56795)">
  <g stroke-width="0.64">
  <g stroke-dasharray="none" stroke-dashoffset="0.0">
@@ -284,7 +383,18 @@
  </g>
  </g>
  <g stroke-width="0.8">
- <path d=" M 0.0 -99.38466 L 0.0 -15.13637  " fill="none"/>
+ <path d=" M 0.0 -98.67465 L 0.0 -15.13637  " fill="none"/>
+ <g transform="matrix(0.0,-1.0,1.0,0.0,0.0,-98.67465)">
+ <g stroke-width="0.64">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -1.55997 2.07996 C -1.42996 1.29997 0.0 0.12999 0.38998 0.0 C 0.0 -0.12999 -1.42996 -1.29997 -1.55997 -2.07996  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+  </g>
  <g transform="matrix(0.0,1.0,-1.0,0.0,0.0,-15.13637)">
  <g stroke-width="0.64">
  <g stroke-dasharray="none" stroke-dashoffset="0.0">
@@ -296,7 +406,7 @@
  </g>
  </g>
   </g>
- <g transform="translate(-2.93747,-75.39853)">
+ <g transform="translate(-17.56383,-60.77217)">
  <g fill="#000">
  <text style="stroke:none" transform="scale(1,-1) translate(2.93747,0)" text-anchor="middle"  font-size="10"> 
 <g fill="#000">
@@ -306,7 +416,18 @@
  </g>
  </g>
  <g stroke-width="0.8">
- <path d=" M -86.0701 -49.69255 L -13.10828 -7.56793  " fill="none"/>
+ <path d=" M -85.45523 -49.33757 L -13.10828 -7.56793  " fill="none"/>
+ <g transform="matrix(-0.86601,-0.49998,0.49998,-0.86601,-85.45522,-49.33755)">
+ <g stroke-width="0.64">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -1.55997 2.07996 C -1.42996 1.29997 0.0 0.12999 0.38998 0.0 C 0.0 -0.12999 -1.42996 -1.29997 -1.55997 -2.07996  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+  </g>
  <g transform="matrix(0.86601,0.49998,-0.49998,0.86601,-13.10829,-7.56795)">
  <g stroke-width="0.64">
  <g stroke-dasharray="none" stroke-dashoffset="0.0">
@@ -328,7 +449,18 @@
  </g>
  </g>
  <g stroke-width="0.8">
- <path d=" M -86.0701 49.69255 L -13.10828 7.56793  " fill="none"/>
+ <path d=" M -85.45523 49.33757 L -13.10828 7.56793  " fill="none"/>
+ <g transform="matrix(-0.86601,0.49998,-0.49998,-0.86601,-85.45522,49.33755)">
+ <g stroke-width="0.64">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -1.55997 2.07996 C -1.42996 1.29997 0.0 0.12999 0.38998 0.0 C 0.0 -0.12999 -1.42996 -1.29997 -1.55997 -2.07996  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+  </g>
  <g transform="matrix(0.86601,-0.49998,0.49998,0.86601,-13.10829,7.56795)">
  <g stroke-width="0.64">
  <g stroke-dasharray="none" stroke-dashoffset="0.0">
@@ -350,7 +482,18 @@
  </g>
  </g>
  <g stroke-width="0.8">
- <path d=" M -159.3898 8.93326 L -110.44768 47.5326  " fill="none"/>
+ <path d=" M -158.83235 9.3729 L -110.44768 47.5326  " fill="none"/>
+ <g transform="matrix(-0.78514,-0.61922,0.61922,-0.78514,-158.83234,9.37291)">
+ <g stroke-width="0.64">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -1.55997 2.07996 C -1.42996 1.29997 0.0 0.12999 0.38998 0.0 C 0.0 -0.12999 -1.42996 -1.29997 -1.55997 -2.07996  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+  </g>
  <g transform="matrix(0.78514,0.61923,-0.61923,0.78514,-110.4477,47.53258)">
  <g stroke-width="0.64">
  <g stroke-dasharray="none" stroke-dashoffset="0.0">
@@ -372,7 +515,18 @@
  </g>
  </g>
  <g stroke-width="0.8">
- <path d=" M 159.3898 -8.93326 L 110.44768 -47.5326  " fill="none"/>
+ <path d=" M 158.83235 -9.3729 L 110.44768 -47.5326  " fill="none"/>
+ <g transform="matrix(0.78514,0.61922,-0.61922,0.78514,158.83234,-9.37291)">
+ <g stroke-width="0.64">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -1.55997 2.07996 C -1.42996 1.29997 0.0 0.12999 0.38998 0.0 C 0.0 -0.12999 -1.42996 -1.29997 -1.55997 -2.07996  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+  </g>
  <g transform="matrix(-0.78514,-0.61923,0.61923,-0.78514,110.4477,-47.53258)">
  <g stroke-width="0.64">
  <g stroke-dasharray="none" stroke-dashoffset="0.0">
@@ -394,7 +548,18 @@
  </g>
  </g>
  <g stroke-width="0.8">
- <path d=" M -159.3898 -8.93326 L -110.44768 -47.5326  " fill="none"/>
+ <path d=" M -158.83235 -9.3729 L -110.44768 -47.5326  " fill="none"/>
+ <g transform="matrix(-0.78514,0.61922,-0.61922,-0.78514,-158.83234,-9.37291)">
+ <g stroke-width="0.64">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -1.55997 2.07996 C -1.42996 1.29997 0.0 0.12999 0.38998 0.0 C 0.0 -0.12999 -1.42996 -1.29997 -1.55997 -2.07996  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+  </g>
  <g transform="matrix(0.78514,-0.61923,0.61923,0.78514,-110.4477,-47.53258)">
  <g stroke-width="0.64">
  <g stroke-dasharray="none" stroke-dashoffset="0.0">
@@ -416,7 +581,18 @@
  </g>
  </g>
  <g stroke-width="0.8">
- <path d=" M 159.3898 8.93326 L 110.44768 47.5326  " fill="none"/>
+ <path d=" M 158.83235 9.3729 L 110.44768 47.5326  " fill="none"/>
+ <g transform="matrix(0.78514,-0.61922,0.61922,0.78514,158.83234,9.37291)">
+ <g stroke-width="0.64">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -1.55997 2.07996 C -1.42996 1.29997 0.0 0.12999 0.38998 0.0 C 0.0 -0.12999 -1.42996 -1.29997 -1.55997 -2.07996  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+  </g>
  <g transform="matrix(-0.78514,0.61923,-0.61923,-0.78514,110.4477,47.53258)">
  <g stroke-width="0.64">
  <g stroke-dasharray="none" stroke-dashoffset="0.0">

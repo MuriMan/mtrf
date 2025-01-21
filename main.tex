@@ -19,25 +19,35 @@
 \node (I) at (0:6cm) {I};
 
 % Edges
-\draw[->, thick] (A) -- (B) node[midway, above right, draw=none] {5};
-\draw[->, thick] (B) -- (C) node[midway, right, draw=none] {3};
-\draw[->, thick] (C) -- (D) node[midway, below right, draw=none] {7};
-\draw[->, thick] (D) -- (E) node[midway, below left, draw=none] {4};
-\draw[->, thick] (E) -- (F) node[midway, left, draw=none] {6};
-\draw[->, thick] (F) -- (A) node[midway, above left, draw=none] {8};
-\draw[->, thick] (A) -- (G) node[midway, above, draw=none] {2};
-\draw[->, thick] (B) -- (G) node[midway, right, draw=none] {9};
-\draw[->, thick] (C) -- (G) node[midway, below, draw=none] {1};
-\draw[->, thick] (D) -- (G) node[midway, below, draw=none] {5};
-\draw[->, thick] (E) -- (G) node[midway, left, draw=none] {3};
-\draw[->, thick] (F) -- (G) node[midway, above, draw=none] {7};
-\draw[->, thick] (H) -- (F) node[midway, left, draw=none] {4};
-\draw[->, thick] (I) -- (C) node[midway, right, draw=none] {6};
-\draw[->, thick] (H) -- (E) node[midway, below, draw=none] {2};
-\draw[->, thick] (I) -- (B) node[midway, above, draw=none] {5};
+\draw[<->, thick] (A) -- (B) node[midway, above right, draw=none] {5};
+\draw[<->, thick] (B) -- (C) node[midway, right, draw=none] {3};
+\draw[<->, thick] (C) -- (D) node[midway, below right, draw=none] {7};
+\draw[<->, thick] (D) -- (E) node[midway, below left, draw=none] {4};
+\draw[<->, thick] (E) -- (F) node[midway, left, draw=none] {6};
+\draw[<->, thick] (F) -- (A) node[midway, above left, draw=none] {8};
+\draw[<->, thick] (A) -- (G) node[midway, right, draw=none] {2};
+\draw[<->, thick] (B) -- (G) node[midway, right, draw=none] {9};
+\draw[<->, thick] (C) -- (G) node[midway, below, draw=none] {1};
+\draw[<->, thick] (D) -- (G) node[midway, left, draw=none] {5};
+\draw[<->, thick] (E) -- (G) node[midway, left, draw=none] {3};
+\draw[<->, thick] (F) -- (G) node[midway, above, draw=none] {7};
+\draw[<->, thick] (H) -- (F) node[midway, left, draw=none] {4};
+\draw[<->, thick] (I) -- (C) node[midway, right, draw=none] {6};
+\draw[<->, thick] (H) -- (E) node[midway, below, draw=none] {2};
+\draw[<->, thick] (I) -- (B) node[midway, above, draw=none] {5};
 
 \end{tikzpicture}
 
-$$ \diff{}{t} \left[\textrm{O}_3\right] = -k \cdot c (\textrm{CFC}) \cdot c (\textrm{UV})$$
+$$ \diff{}{t} \left[c \left(\textrm{O}_3\right)\right] = -(2.3 \times 10^{-11}) \cdot c \left(\textrm{CFC}\right)\cdot c \left(\textrm{UV}\right)$$
+where $k$ is reaction rate constant.
+
+$$ c \left(\textrm{O}_3\right) \propto \frac{1}{c \left(UV\right)} $$
+
+\[
+\frac{dP}{dt} = k \cdot P \cdot \frac{G}{Q}
+\]
+
+$$ \diff{}{t}{G} = a \cdot G \cdot \left(1 - \frac{P}{K}\right) $$
+where $k$ and $a$ represent proportional sensitivity.
 
 \end{document}

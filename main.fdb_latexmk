@@ -1,12 +1,14 @@
 # Fdb version 4
-["pdflatex"] 1736414627.82034 "main.tex" "main.pdf" "main" 1736414628.58804 0
+["pdflatex"] 1737470736.87315 "main.tex" "main.pdf" "main" 1737470737.32 0
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1727349926 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1727349926 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1727349926 30251 6afa5cb1d0204815a708a080681d4674 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1727349926 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1727349926 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1727349926 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1727349926 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1727349926 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1727349926 32716 08e384dc442464e7285e891af9f45947 ""
   "/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1727349926 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/share/texmf-dist/tex/generic/iftex/ifluatex.sty" 1727349926 492 1994775aa15b0d1289725a0b1bbc2d4c ""
   "/usr/share/texmf-dist/tex/generic/iftex/iftex.sty" 1727349926 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -105,8 +107,8 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1727349926 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1734718764.8673 325246 7217e157e5466427c18ad35e6ae60d51 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1734718689 7113013 5c635b48d8d2a166b89091036b25d0e8 ""
-  "main.aux" 1736414628.51365 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "main.tex" 1736414538.85071 1705 523d4b4b635a96f76f77bcc23078ccc6 ""
+  "main.aux" 1737470737.27072 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
+  "main.tex" 1737470735.59762 2057 cd761d2e0dd85d5746d377d7c3eccbc2 ""
   (generated)
   "main.aux"
   "main.log"
